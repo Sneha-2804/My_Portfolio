@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData.dark(),
       debugShowCheckedModeBanner: false,
-      title: 'Portfolio Page',
+      title: 'sneha_portfolio',
       home: HomePage(),
     );
   }
